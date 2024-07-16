@@ -1,8 +1,8 @@
-# Sabarish_R  
+# SRIRAM S  
 
-Feel free to explore more about me httpsyg://sabarishcodewizard.github.io/Personal_Portfolio/
+Feel free to explore more about me
 
-<h1 align="center">Hi 👋, I'm Sabarish_R</h1>
+<h1 align="center">Hi 👋, I'm SRIRAM S</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
@@ -17,11 +17,11 @@ Feel free to explore more about me httpsyg://sabarishcodewizard.github.io/Person
 
 - 💬 Ask me about *Artificial Intelligence* and  *FullStack*
 
-- 📫 How to reach me *ravik60656@gmail.com*
+- 📫 How to reach me *sriramsivakumar2005@gmail.com*
 
 - ⚡ Fun fact *ChatGPT is currently free to use......*
 
-<h3 align="left">Connect with me: 7845081278</h3>
+<h3 align="left">Connect with me: 6383486227</h3>
 <p align="left">
 </p>
 
