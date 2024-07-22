@@ -37,13 +37,12 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats]("https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&theme=radical")
+![Your GitHub stats]("https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email](mailto:youremail@example.com)
 
 
