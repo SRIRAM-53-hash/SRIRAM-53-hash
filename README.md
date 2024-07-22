@@ -8,14 +8,23 @@
 <p align="left">  </p>
 
 ## 🚀 About Me
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on *Bannari Amman Institute Of Technology*
+
+- 🌱 I’m currently learning *Fullstack and AI*
+
+- 👯 I’m looking to collaborate on *Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality*
+
+- 💬 Ask me about *Artificial Intelligence* and  *FullStack*
+
+- 📫 How to reach me *sriramsivakumar2005@gmail.com*
+
+- ⚡ Fun fact *ChatGPT is currently free to use......*
+
+<h3 align="left">Connect with me: 6383486227</h3>
+<p align="left">
+</p>
 
 ## 🛠️ Technologies & Tools
 
