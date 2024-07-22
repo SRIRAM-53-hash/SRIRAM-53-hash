@@ -2,6 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
+<h1 align="center">Hi 👋, I'm SRIRAM S</h1>
+<h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left">  </p>
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning ...
@@ -21,8 +26,6 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 
 ## 📈 GitHub Stats
 
@@ -33,20 +36,6 @@
 ## 📫 Contact Me
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
 - [Email](mailto:youremail@example.com)
 
-## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
-## 👨‍💻 Projects
-
-- [Project 1](https://github.com/yourusername/project1) - Description
-- [Project 2](https://github.com/yourusername/project2) - Description
-- [Project 3](https://github.com/yourusername/project3) - Description
