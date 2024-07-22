@@ -8,7 +8,6 @@
 <p align="left">  </p>
 
 ## 🚀 About Me
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on *Bannari Amman Institute Of Technology*
 
@@ -38,7 +37,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats]("https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en" alt="SRIRAM-53-hash")
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
