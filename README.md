@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on *Bannari Amman Institute Of Technology*
+- 🔭 I’m currently studying on *Bannari Amman Institute Of Technology*
 
 - 🌱 I’m currently learning *Fullstack and AI*
 
@@ -28,6 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIRAM-53-hash&show_icons=true&locale=en&layout=compact"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en"  /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/user5520nJ)](https://leetcode.com/user5520nJ?ext=heatmap)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SRIRAM-53-hash&theme=default&no-frame=false&no-bg=false&margin-w=4)
