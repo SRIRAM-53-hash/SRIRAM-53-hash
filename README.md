@@ -28,6 +28,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIRAM-53-hash&show_icons=true&locale=en&layout=compact"  /></p>
 
+
+<img src="https://raw.githubusercontent.com/SRIRAM-53-hash/SRIRAM-53-hash/output/snake.svg" alt="Snake animation" /><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en"  /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM-53-hash&theme=chartreuse-dark" alt="SRIRAM-53-hash" /></p>
