@@ -16,7 +16,7 @@
 
 - 📫 How to reach me *sriramsivakumar2005@gmail.com*
 
-- ⚡ Fun fact *ChatGPT is currently free to use......😏 *
+- ⚡ Fun fact *ChatGPT is currently free to use......😏*
 
 <h3 align="left">Connect with me: 6383486227🤫</h3>
 <p align="left">
