@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm SRIRAM S</h1>
+<h1 align="center">Hola 👋, I'm SRIRAM S</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">  </p>
@@ -16,9 +16,9 @@
 
 - 📫 How to reach me *sriramsivakumar2005@gmail.com*
 
-- ⚡ Fun fact *ChatGPT is currently free to use......*
+- ⚡ Fun fact *ChatGPT is currently free to use......😏 *
 
-<h3 align="left">Connect with me: 6383486227</h3>
+<h3 align="left">Connect with me: 6383486227🤫</h3>
 <p align="left">
 </p>
 
