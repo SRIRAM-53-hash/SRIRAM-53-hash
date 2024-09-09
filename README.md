@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hola 👋, I'm SRIRAM S</h1>
-<h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
+<h3 align="center">A passionate Backend and UI/UX developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">  </p>
 
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently studying on *Bannari Amman Institute Of Technology*
 
-- 🌱 I’m currently learning *Fullstack and AI*
+- 🌱 I’m currently learning *React and UI/UX*
 
 - 👯 I’m looking to collaborate on *Integrate a voice assistant into a website, leveraging my expertise in voice technology and web development to enhance user experience and functionality*
 
-- 💬 Ask me about *Artificial Intelligence* and  *FullStack*
+- 💬 Ask me about *Backend* and *UI/UX*
 
 - 📫 How to reach me *sriramsivakumar2005@gmail.com*
 
-- ⚡ Fun fact *ChatGPT is currently free to use......😏*
+- ⚡ Fun fact *I don't know "what is stress"......😏*
 
 <h3 align="left">Connect with me: 6383486227🤫</h3>
 <p align="left">
