@@ -29,4 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en"  /></p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SRIRAM-53-hash&theme=default&no-frame=false&no-bg=false&margin-w=4)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM-53-hash&"/></p
