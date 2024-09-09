@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm SRIRAM S</h1>
 <h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -28,6 +29,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIRAM-53-hash&show_icons=true&locale=en&layout=compact"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en"  /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM-53-hash&theme=chartreuse-dark" alt="SRIRAM-53-hash" /></p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/user5520nJ)](https://leetcode.com/user5520nJ?ext=heatmap)
 
