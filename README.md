@@ -32,9 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM-53-hash&theme=chartreuse-dark" alt="SRIRAM-53-hash" /></p>
 
-
-<img src="https://raw.githubusercontent.com/SRIRAM-53-hash/SRIRAM-53-hash/output/snake.svg" alt="Snake animation" /><br>
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/user5520nJ)](https://leetcode.com/user5520nJ?ext=heatmap)
 
 ## 🏆 GitHub Trophies
