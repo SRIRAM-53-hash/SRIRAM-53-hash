@@ -13,7 +13,7 @@
 
 - 💬 Ask me about *Backend* and *UI/UX*
 
-- 📫 How to reach me https:
+- 📫 How to reach me:
 - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-s-2a4b87256/)
 
 - ⚡ Fun fact *I don't know "what is stress"......😏*
@@ -32,7 +32,8 @@
 <a href="https://www.instagram.com/__.h_i_n_o.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.h_i_n_o._" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/user5520nJ/ "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user5520nJ" height="30" width="40" /></a>
 </p>
-## My github
+
+## My github:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SRIRAM-53-hash&show_icons=true&locale=en&layout=compact"  /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRIRAM-53-hash&show_icons=true&locale=en"  /></p>
