@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sriram-s-2a4b87256/)
 
-- ⚡ Fun fact I don't know "what is stress"......😏
+- ⚡ Fun fact *I don't know "what is stress"......😏*
 
 <h3 align="left">Connect with me: 6383486227🤫</h3>
 <p align="left">
